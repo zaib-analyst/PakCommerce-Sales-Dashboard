@@ -56,5 +56,4 @@ analyzing 300 orders across 5 Pakistani cities for Q1 2026.
 - LinkedIn: https://www.linkedin.com/in/ali-zaib-6aa913388
 - Learning Path: Excel → SQL → Python → Tableau/Power BI
 
-  ## Dashboard Preview
-![Dashboard](dashboard_preview.jpg)
+ ![Dashboard](Dashboard_Preview.jpg)
